@@ -10,11 +10,3 @@ class Player
     @lives -= 1
   end
 end
-
-# playerA = Player.new('player3')
-# puts playerA
-# playerA.wrong_answer
-# puts playerA.lives
-# puts playerA.name
-# playerA.wrong_answer
-# puts playerA
